@@ -12,7 +12,7 @@
     "ionic:serve": ""
   },
   "dependencies": {
-    "@angular/common": "5.0.3",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "5.0.3",
     "@angular/compiler-cli": "^8.1.3",
     "@angular/core": "5.0.3",
